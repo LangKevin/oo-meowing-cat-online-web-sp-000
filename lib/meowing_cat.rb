@@ -5,4 +5,5 @@ class = Cat
     {
       puts "#{name}"
     }
+  end
 end
